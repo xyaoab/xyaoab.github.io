@@ -8,10 +8,6 @@
   </url>
   
   <url>
-    <loc>https://xyaoab.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://xyaoab.github.io/authors/</loc>
   </url>
   
@@ -40,6 +36,10 @@
   
   <url>
     <loc>https://xyaoab.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xyaoab.github.io/</loc>
   </url>
   
 </urlset>
