@@ -5,12 +5,30 @@
     <link>https://xyaoab.github.io/</link>
       <atom:link href="https://xyaoab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Xinjie Yao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xyaoab.github.io/img/icon-192.png</url>
       <title>Xinjie Yao</title>
       <link>https://xyaoab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Social navigation</title>
+      <link>https://xyaoab.github.io/publication/preprint/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://xyaoab.github.io/publication/preprint/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Social navigation</title>
+      <link>https://xyaoab.github.io/projects/social-navigation/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://xyaoab.github.io/projects/social-navigation/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -5,12 +5,20 @@
     <link>https://xyaoab.github.io/publication_types/</link>
       <atom:link href="https://xyaoab.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xyaoab.github.io/img/icon-192.png</url>
       <title>Publication_types</title>
       <link>https://xyaoab.github.io/publication_types/</link>
     </image>
+    
+    <item>
+      <title>3</title>
+      <link>https://xyaoab.github.io/publication_types/3/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://xyaoab.github.io/publication_types/3/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

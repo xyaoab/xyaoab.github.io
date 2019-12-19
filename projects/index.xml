@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Xinjie Yao</title>
+    <link>https://xyaoab.github.io/projects/</link>
+      <atom:link href="https://xyaoab.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xyaoab.github.io/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://xyaoab.github.io/projects/</link>
+    </image>
+    
+    <item>
+      <title>Social navigation</title>
+      <link>https://xyaoab.github.io/projects/social-navigation/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://xyaoab.github.io/projects/social-navigation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
