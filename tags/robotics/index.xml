@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Xinjie Yao</title>
-    <link>https://xyaoab.github.io/publication_types/3/</link>
-      <atom:link href="https://xyaoab.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
-    <description>3</description>
+    <title>Robotics | Xinjie Yao</title>
+    <link>https://xyaoab.github.io/tags/robotics/</link>
+      <atom:link href="https://xyaoab.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robotics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xyaoab.github.io/img/icon-192.png</url>
-      <title>3</title>
-      <link>https://xyaoab.github.io/publication_types/3/</link>
+      <title>Robotics</title>
+      <link>https://xyaoab.github.io/tags/robotics/</link>
     </image>
     
     <item>
@@ -17,6 +17,14 @@
       <link>https://xyaoab.github.io/publication/preprint/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://xyaoab.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social navigation</title>
+      <link>https://xyaoab.github.io/project/social-navigation/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://xyaoab.github.io/project/social-navigation/</guid>
       <description></description>
     </item>
     
