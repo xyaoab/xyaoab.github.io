@@ -20,5 +20,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Smart Home Hub</title>
+      <link>https://xyaoab.github.io/project/smart-home-hub/</link>
+      <pubDate>Tue, 07 Nov 2017 23:37:35 -0300</pubDate>
+      <guid>https://xyaoab.github.io/project/smart-home-hub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robot Tour Guide</title>
+      <link>https://xyaoab.github.io/project/robot-guide/</link>
+      <pubDate>Mon, 06 Mar 2017 02:51:57 +0100</pubDate>
+      <guid>https://xyaoab.github.io/project/robot-guide/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
